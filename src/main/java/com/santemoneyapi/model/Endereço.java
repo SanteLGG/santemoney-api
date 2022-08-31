@@ -20,7 +20,6 @@ public class Endereço {
 
     private String estado;
 
-    private String pais;
     //getters and setters
 
     public String getLogradouro() {
